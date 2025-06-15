@@ -1,0 +1,427 @@
+[
+    {
+        "titulo": "O Grande Gatsby",
+        "autor": "F. Scott Fitzgerald",
+        "isbn": "1928374650"
+    },
+    {
+        "titulo": "A Revolução dos Bichos",
+        "autor": "George Orwell",
+        "isbn": "1029384756"
+    },
+    {
+        "titulo": "Ulisses",
+        "autor": "James Joyce",
+        "isbn": "1928374655"
+    },
+    {
+        "titulo": "O Sol é para Todos",
+        "autor": "Harper Lee",
+        "isbn": "5738291045"
+    },
+    {
+        "titulo": "O Senhor dos Anéis",
+        "autor": "J.R.R. Tolkien",
+        "isbn": "3467281913"
+    },
+    {
+        "titulo": "Harry Potter e a Pedra Filosofal",
+        "autor": "J.K. Rowling",
+        "isbn": "5402938475"
+    },
+    {
+        "titulo": "A Casa dos Espíritos",
+        "autor": "Isabel Allende",
+        "isbn": "1357924680"
+    },
+    {
+        "titulo": "O Código Da Vinci",
+        "autor": "Dan Brown",
+        "isbn": "8642097531"
+    },
+    {
+        "titulo": "O Hobbit",
+        "autor": "J.R.R. Tolkien",
+        "isbn": "1234657891"
+    },
+    {
+        "titulo": "Orgulho e Preconceito",
+        "autor": "Jane Austen",
+        "isbn": "2345678901"
+    },
+    {
+        "titulo": "A Menina que Roubava Livros",
+        "autor": "Markus Zusak",
+        "isbn": "1029384757"
+    },
+    {
+        "titulo": "O Morro dos Ventos Uivantes",
+        "autor": "Emily Brontë",
+        "isbn": "2345609876"
+    },
+    {
+        "titulo": "A Arte da Guerra",
+        "autor": "Sun Tzu",
+        "isbn": "9081726359"
+    },
+    {
+        "titulo": "O Príncipe",
+        "autor": "Nicolau Maquiavel",
+        "isbn": "0982736451"
+    },
+    {
+        "titulo": "Dom Quixote",
+        "autor": "Miguel de Cervantes",
+        "isbn": "1122335467"
+    },
+    {
+        "titulo": "O Mestre e Margarida",
+        "autor": "Mikhail Bulgakov",
+        "isbn": "2233445756"
+    },
+    {
+        "titulo": "A Divina Comédia",
+        "autor": "Dante Alighieri",
+        "isbn": "1234433242"
+    },
+    {
+        "titulo": "O Velho e o Mar",
+        "autor": "Ernest Hemingway",
+        "isbn": "5423789012"
+    },
+    {
+        "titulo": "O Lobo da Estepe",
+        "autor": "Hermann Hesse",
+        "isbn": "2318796430"
+    },
+    {
+        "titulo": "O Retrato de Dorian Gray",
+        "autor": "Oscar Wilde",
+        "isbn": "7865478901"
+    },
+    {
+        "titulo": "A Insustentável Leveza do Ser",
+        "autor": "Milan Kundera",
+        "isbn": "5426381902"
+    },
+    {
+        "titulo": "O Caçador de Pipas",
+        "autor": "Khaled Hosseini",
+        "isbn": "8765432341"
+    },
+    {
+        "titulo": "A Cabana",
+        "autor": "William P. Young",
+        "isbn": "3141592653"
+    },
+    {
+        "titulo": "O Alquimista",
+        "autor": "Paulo Coelho",
+        "isbn": "2718281828"
+    },
+    {
+        "titulo": "A Menina do Vale",
+        "autor": "Bel Pesce",
+        "isbn": "1415926535"
+    },
+    {
+        "titulo": "O Pequeno Príncipe",
+        "autor": "Antoine de Saint-Exupéry",
+        "isbn": "6182535467"
+    },
+    {
+        "titulo": "O Poder do Hábito",
+        "autor": "Charles Duhigg",
+        "isbn": "7748326578"
+    },
+    {
+        "titulo": "Em Busca de Sentido",
+        "autor": "Viktor Frankl",
+        "isbn": "8887554433"
+    },
+    {
+        "titulo": "Fahrenheit 451",
+        "autor": "Ray Bradbury",
+        "isbn": "3456789056"
+    },
+    {
+        "titulo": "As Aventuras de Huckleberry Finn",
+        "autor": "Mark Twain",
+        "isbn": "2345678765"
+    },
+    {
+        "titulo": "O Guia do Mochileiro das Galáxias",
+        "autor": "Douglas Adams",
+        "isbn": "9876545643"
+    },
+    {
+        "titulo": "Coração das Trevas",
+        "autor": "Joseph Conrad",
+        "isbn": "3456784321"
+    },
+    {
+        "titulo": "O Nome da Rosa",
+        "autor": "Umberto Eco",
+        "isbn": "1293846754"
+    },
+    {
+        "titulo": "A História Secreta",
+        "autor": "Donna Tartt",
+        "isbn": "5647382910"
+    },
+    {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "isbn": "9876543210"
+    },
+    {
+        "titulo": "O Grande Gatsby",
+        "autor": "F. Scott Fitzgerald",
+        "isbn": "1928374650"
+    },
+    {
+        "titulo": "O Padrinho",
+        "autor": "Mario Puzo",
+        "isbn": "3276459810"
+    },
+    {
+        "titulo": "Os Homens que Não Amavam as Mulheres",
+        "autor": "Stieg Larsson",
+        "isbn": "4873926592"
+    },
+    {
+        "titulo": "O Andar do Bêbado",
+        "autor": "Leonard Mlodinow",
+        "isbn": "1982737465"
+    },
+    {
+        "titulo": "Os Bons Segredos",
+        "autor": "Sarah Dessen",
+        "isbn": "9023846571"
+    },
+    {
+        "titulo": "A Sombra do Vento",
+        "autor": "Carlos Ruiz Zafón",
+        "isbn": "3748512769"
+    },
+    {
+        "titulo": "A Travessia",
+        "autor": "Pedro Chagas Freitas",
+        "isbn": "5647381029"
+    },
+    {
+        "titulo": "O Último Ceia",
+        "autor": "Dan Brown",
+        "isbn": "2764937280"
+    },
+    {
+        "titulo": "O Pintor de Batalhas",
+        "autor": "Arturo Pérez-Reverte",
+        "isbn": "6383927462"
+    },
+    {
+        "titulo": "O Fantasma da Ópera",
+        "autor": "Gaston Leroux",
+        "isbn": "1892746459"
+    },
+    {
+        "titulo": "As Aventuras de Sherlock Holmes",
+        "autor": "Arthur Conan Doyle",
+        "isbn": "2985736453"
+    },
+    {
+        "titulo": "Drácula",
+        "autor": "Bram Stoker",
+        "isbn": "4893127650"
+    },
+    {
+        "titulo": "O Exorcista",
+        "autor": "William Peter Blatty",
+        "isbn": "3245678790"
+    },
+    {
+        "titulo": "O Hobbit",
+        "autor": "J.R.R. Tolkien",
+        "isbn": "8463721908"
+    },
+    {
+        "titulo": "A Forma da Água",
+        "autor": "Guillermo del Toro",
+        "isbn": "4982736451"
+    },
+    {
+        "titulo": "Guerra e Paz",
+        "autor": "Lev Tolstói",
+        "isbn": "1284937463"
+    },
+    {
+        "titulo": "Os irmãos Karamázov",
+        "autor": "Fiódor Dostoiévski",
+        "isbn": "9764528293"
+    },
+    {
+        "titulo": "O Caçador de Pipas",
+        "autor": "Khaled Hosseini",
+        "isbn": "9283475612"
+    },
+    {
+        "titulo": "A Cabana",
+        "autor": "William P. Young",
+        "isbn": "9283473926"
+    },
+    {
+        "titulo": "O Alquimista",
+        "autor": "Paulo Coelho",
+        "isbn": "2873645197"
+    },
+    {
+        "titulo": "A Menina do Vale",
+        "autor": "Bel Pesce",
+        "isbn": "4739284635"
+    },
+    {
+        "titulo": "O Pequeno Príncipe",
+        "autor": "Antoine de Saint-Exupéry",
+        "isbn": "8472387465"
+    },
+    {
+        "titulo": "O Poder do Hábito",
+        "autor": "Charles Duhigg",
+        "isbn": "3928475623"
+    },
+    {
+        "titulo": "Em Busca de Sentido",
+        "autor": "Viktor Frankl",
+        "isbn": "3984736529"
+    },
+    {
+        "titulo": "Fahrenheit 451",
+        "autor": "Ray Bradbury",
+        "isbn": "5748396017"
+    },
+    {
+        "titulo": "As Aventuras de Huckleberry Finn",
+        "autor": "Mark Twain",
+        "isbn": "4586294731"
+    },
+    {
+        "titulo": "O Guia do Mochileiro das Galáxias",
+        "autor": "Douglas Adams",
+        "isbn": "2384729365"
+    },
+    {
+        "titulo": "Coração das Trevas",
+        "autor": "Joseph Conrad",
+        "isbn": "1927368475"
+    },
+    {
+        "titulo": "O Nome da Rosa",
+        "autor": "Umberto Eco",
+        "isbn": "2364872517"
+    },
+    {
+        "titulo": "A História Secreta",
+        "autor": "Donna Tartt",
+        "isbn": "7263891274"
+    },
+    {
+        "titulo": "As Crônicas de Nárnia",
+        "autor": "C.S. Lewis",
+        "isbn": "7383927465"
+    },
+    {
+        "titulo": "O Fim da Eternidade",
+        "autor": "Isaac Asimov",
+        "isbn": "7492846531"
+    },
+    {
+        "titulo": "Vingança",
+        "autor": "Claudia Gray",
+        "isbn": "1847564920"
+    },
+    {
+        "titulo": "O Bom Soldado",
+        "autor": "Ford Madox Ford",
+        "isbn": "3645287591"
+    },
+    {
+        "titulo": "A Ilha do Tesouro",
+        "autor": "Robert Louis Stevenson",
+        "isbn": "3829472635"
+    },
+    {
+        "titulo": "Cinquenta Tons de Cinza",
+        "autor": "E.L. James",
+        "isbn": "6498275610"
+    },
+    {
+        "titulo": "O Diário de Anne Frank",
+        "autor": "Anne Frank",
+        "isbn": "7682394630"
+    },
+    {
+        "titulo": "A Bela e a Fera",
+        "autor": "Jeanne-Marie Leprince de Beaumont",
+        "isbn": "9348572635"
+    },
+    {
+        "titulo": "O Rei Leão",
+        "autor": "Disney",
+        "isbn": "3748294630"
+    },
+    {
+        "titulo": "A Revolução Industrial",
+        "autor": "Arnold Toynbee",
+        "isbn": "8473927619"
+    },
+    {
+        "titulo": "1984 - Edição Especial",
+        "autor": "George Orwell",
+        "isbn": "3948271635"
+    },
+    {
+        "titulo": "A Fúria dos Reis",
+        "autor": "George R.R. Martin",
+        "isbn": "8374936217"
+    },
+    {
+        "titulo": "O Ciclo da Herança",
+        "autor": "Christopher Paolini",
+        "isbn": "6728394615"
+    },
+    {
+        "titulo": "O Mundo de Sofia",
+        "autor": "Jostein Gaarder",
+        "isbn": "7849326435"
+    },
+    {
+        "titulo": "Crônica de uma Morte Anunciada",
+        "autor": "Gabriel García Márquez",
+        "isbn": "4567839352"
+    },
+    {
+        "titulo": "Os Miseráveis",
+        "autor": "Victor Hugo",
+        "isbn": "3278593462"
+    },
+    {
+        "titulo": "O Diário de um Banana",
+        "autor": "Jeff Kinney",
+        "isbn": "4928356472"
+    },
+    {
+        "titulo": "O Jogo do Exterminador",
+        "autor": "Orson Scott Card",
+        "isbn": "3654731927"
+    },
+    {
+        "titulo": "O Lado Bom da Vida",
+        "autor": "Matthew Quick",
+        "isbn": "8474930573"
+    },
+    {
+        "titulo": "Os Sete Maridos de Evelyn Hugo",
+        "autor": "Taylor Jenkins Reid",
+        "isbn": "8473927651"
+    }
+]
